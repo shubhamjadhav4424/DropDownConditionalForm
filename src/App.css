@@ -1,0 +1,21 @@
+.circle_comman{
+  padding: 20px 29px 20px 29px;
+  background: rgb(215, 215, 215);
+  border-radius: 50px;
+}
+
+.button1{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.accordion{
+  width: 800px;
+}
+
+.circle_green{
+  padding: 20px 29px 20px 29px;
+  background: rgb(44, 226, 53);
+  border-radius: 50px;
+}
